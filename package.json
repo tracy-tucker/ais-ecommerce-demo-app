@@ -7,8 +7,11 @@
     "build": "vue-cli-service build"
   },
   "dependencies": {
+    "algoliasearch": "^4.19.1",
     "core-js": "^3.8.3",
-    "vue": "^3.2.13"
+    "instantsearch.css": "^8.0.0",
+    "vue": "^3.2.13",
+    "vue-instantsearch": "^4.10.8"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~5.0.0",
